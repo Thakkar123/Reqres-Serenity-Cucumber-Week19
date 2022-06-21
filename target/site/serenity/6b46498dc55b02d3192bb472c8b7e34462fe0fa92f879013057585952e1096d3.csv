@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user I would like to check the CRUD functionality of reqres.in","I want to create a new user","SUCCESS","2022-06-21T12:41:37.898+01:00[Europe/London]","0.0","14.8"
+"As a user I would like to check the CRUD functionality of reqres.in","I want to update new created user","SUCCESS","2022-06-21T12:41:57.504+01:00[Europe/London]","0.0","0.91"
+"As a user I would like to check the CRUD functionality of reqres.in","I want to delete new created user","SUCCESS","2022-06-21T12:41:58.528+01:00[Europe/London]","0.0","0.3"
